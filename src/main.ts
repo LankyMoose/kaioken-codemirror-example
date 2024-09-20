@@ -1,4 +1,3 @@
-import "./global.css"
 import { mount } from "kaioken"
 import { App } from "./App"
 

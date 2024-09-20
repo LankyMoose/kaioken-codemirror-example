@@ -14,7 +14,6 @@ const App = (props) =>  (
     [enableJsx]
   )
 
-  console.log("content", content)
   return (
     <div>
       <button onclick={() => setEnableJsx((prev) => !prev)}>
